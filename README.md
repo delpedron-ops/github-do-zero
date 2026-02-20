@@ -13,4 +13,4 @@ Aprender GitHub do zero ao avançado em 7 dias.
 Dia 1 ✅
 Estudando branches 🚀
 Dia 2 🚀 - Usando Git no terminal
-Dia 2 aprnedendo usar o github
+Dia 2 aprnedendo usar o github git status
